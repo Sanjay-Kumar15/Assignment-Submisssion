@@ -1,0 +1,12 @@
+The Final, finally and finalize are common terms used in java programming.
+ 
+Following is the difference between Final, Finally and Finalize:
+
+1. Final: The final is a keyword that prevents changing variables, avoid method overriding 
+and avoid extending classes. The Final is applicable for variables, methods and classes.
+
+2. Finally: The finally is a block in exception handling that will execute whether an 
+exception is thrown or not. The Finally is applicable with a try and catch blocks.
+
+3. Finalize: The finalize is a method, called by the garbage collector before it destroys
+the object completely. The Finalize is applicable for objects.  
