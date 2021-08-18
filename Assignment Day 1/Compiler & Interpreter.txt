@@ -1,0 +1,22 @@
+Assignment Day 1 - Java Zero to Hero
+
+Q1. Difference between Compiler and Interpreter ?
+A1. The following is the differenciation of compiler and interpreter:-
+	1. Compiler coverts the code wriiten in high level language  and then into 
+	   the machine code at once i.e into binary(0 & 1), whereas interpreter 
+	   converts each high level statement one by one into machine code during 
+	   the program run.
+	2. Due to this Compiled code runs faster in comparison to the interpreted code
+	3. Compiler display all the errors at once after completing the compilation 
+	   whereas interpreter displays error of each line one by one.
+	4. Compiler compiles an entire program at once where as Interpreter interprets
+ 	   the program line by line.
+
+	Workflow:
+	1. Compiler:
+	   
+		Source Code -> Compiler -> Machine Code -> Output
+
+	2. Interpreter:
+
+		Source Code -> Interpreter -> Output
